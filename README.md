@@ -1,3 +1,3 @@
 # TankWar
-small game tankwar
+minigame tankwar
 test demo use to study
